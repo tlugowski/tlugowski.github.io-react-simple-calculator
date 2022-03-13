@@ -1,11 +1,12 @@
 # React Simple Calculator
 
-## Application technology:\
+## Application technology:
 
-- React\
-- Styled Components\
+- React
+- Styled Components
 - Andt design\
-  ![til](../src/img/calculator_main.gif)
+   <img src="./src/img/calculator_main.gif
+  "/>
 
 # Getting Started with Create React App
 
