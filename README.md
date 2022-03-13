@@ -1,3 +1,12 @@
+# React Simple Calculator
+
+## Application technology:\
+
+- React\
+- Styled Components\
+- Andt design\
+  ![til](../src/img/calculator_main.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
